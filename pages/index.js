@@ -5,6 +5,7 @@ import Nav from "../components/Nav";
 import Results from "../components/Results";
 import request from "../utils/request";
 
+
 export default function Home({ results }) {	
 	return (
 		<div>
