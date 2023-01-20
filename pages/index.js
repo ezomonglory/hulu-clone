@@ -7,6 +7,7 @@ import request from "../utils/request";
 
 
 
+
 export default function Home({ results }) {	
 	return (
 		<div>
